@@ -1,8 +1,10 @@
+## 原则
 不要浪费时间
 合适的工具和勤奋
 凡事有交代 件件有着落 事事有回音
 
 
+## git
 git init
 git config --global user.name
 git config --global user.email
@@ -12,5 +14,6 @@ git fetch
 git pull https://github.com/cjp-luany/log_move master
 git push --set-upstream origin master
 
-123
+
+## 计划
 123
